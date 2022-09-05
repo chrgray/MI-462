@@ -1,4 +1,4 @@
-# MI462 Final Assessment 
+# MI462 Final Assessment Chris Gray
 1. Data Analysis project
 2. Data prep and visualization project
 3. Database management tasks using SQL
